@@ -2,6 +2,10 @@
 
 CarGenie is a car-rental product with a mobile app for renters and hosts and an API service. This repository brings the current frontend and backend code together in one place.
 
+## App demo
+
+The app is not currently available in an app store. [Watch the recorded app walkthrough](https://res.cloudinary.com/dg4ccjvbx/video/upload/v1790247533/video-cargenie_oxehpf.mp4) to preview the renter and host experience.
+
 ## Project layout
 
 - [`frontend/`](./frontend/) — Expo and React Native app. Its renter and host journeys are navigable with sample data.
